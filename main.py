@@ -21,7 +21,7 @@ def main():
     print(my_name)
     print()
     print("Now, you can't see it, but I just called a variable called my_name")
-    print("I defined the value 'my_name = 'Travis'")
+    print("I defined the value 'my_name = 'Travis''")
     print("Then I called it with the print command like print('my_name')")
     print()
     print("This is actually kind of difficult to type like this.")
@@ -30,7 +30,12 @@ def main():
     print()
     print()
     print("Anyway, let's move on.")
-    
+    print("You can use another function called input to prompt users for responses.")
+    print("It can be any type of data. Strings, Integers, Floats, or Booleans.")
+    print("I'll explain those later.")
+    print()
+    print
+
 
 
 
