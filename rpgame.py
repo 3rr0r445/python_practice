@@ -29,7 +29,9 @@ if choice == 1:
     print("You cautiously begin to open the door.")
     print("A rotten claw-like hand reaches through the crack and scratches you!")
     print("You slam the door closed and lock it, but the scratch on your arm hurts.")
-    
+    global health
+    health = 25
+    print(health)
 
 
 
