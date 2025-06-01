@@ -66,7 +66,10 @@ def living_room_choice():
 
     if living_room_choice == "1":
         print("You confidently walk to the door and throw it open.")
-
+        print("A horde of rotting, shambling corpses stand on the lawn. They stare blankly at you almost in disbelief.")
+        print("They descend on you far too quickly for you to shut the door again.")
+        print("You are killed horribly, and it is deserved for making an incredibly silly decision.")
+        print("GAME OVER")
     
 
 if __name__ == '__main__':
